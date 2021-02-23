@@ -4,7 +4,7 @@
 ** Only backtester is supported (not necessary for normal bot **
 
 requirements:
-python3 -m pip install numba
+`python3 -m pip install numba matplotlib pandas websockets ccxt`
 
 usage:
 `python3 backtest_jit.py exchange your_user_name`
