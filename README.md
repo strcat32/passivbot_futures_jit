@@ -1,6 +1,8 @@
 # passivbot_futures JITed version of backtester 
 **(WARNING: please compare results, not thoroughly tested yet)**
-*** Only backtester is supported (not necessary for normal bot ***
+
+** Only backtester is supported (not necessary for normal bot **
+
 requirements:
 python3 -m pip install numba
 
